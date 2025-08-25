@@ -1,0 +1,16 @@
+{
+  "name": "Flexbox CSS App",
+  "short_name": "FC App",
+  "description": "Uma aplicação utilizando flexbox css e pwa",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2196F3",
+  "icons": [
+    {
+      "src": "public/images/pizzaLogo.webp",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
