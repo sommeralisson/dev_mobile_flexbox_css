@@ -2,7 +2,7 @@
   "name": "Flexbox CSS App",
   "short_name": "FC App",
   "description": "Uma aplicação utilizando flexbox css e pwa",
-  "start_url": "/",
+  "start_url": "/dev_mobile_flexbox_css/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#2196F3",
